@@ -1,2 +1,2 @@
 # Bolade-Josiah
-I'm a alx student, this is my first repository as a full-stack engineer.
+I'm now a alx student, this is my first repository as a full-stack engineer.
